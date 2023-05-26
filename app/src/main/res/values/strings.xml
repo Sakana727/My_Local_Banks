@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="dbsimage">DBSimage</string>
+    <string name="ocbcimage">OCBCimage</string>
+    <string name="uobimage">UOBimage</string>
+    <string name="dbs">DBS</string>
+    <string name="uob">UOB</string>
+    <string name="ocbc">OCBC</string>
+    <string name="website">Website</string>
+    <string name="Contact">Contact</string>
+    <string name="show_favourites">Show Favourites?</string>
+    <string name="show">Show</string>
+    <string name="unshow">UnShow</string>
+</resources>

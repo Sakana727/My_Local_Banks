@@ -1,0 +1,10 @@
+<resources>
+    <string name="dbs">星展银行</string>
+    <string name="ocbc">华侨银行</string>
+    <string name="uob">大华银行</string>
+    <string name="website">网站</string>
+    <string name="Contact">联系银行</string>
+    <string name="show">看</string>
+    <string name="unshow">不看</string>
+    <string name="show_favourites">看你喜爱的银行?</string>
+</resources>
